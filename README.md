@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Myank6510/LeatCode/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/Myank6510/LeatCode/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
 | ------- |

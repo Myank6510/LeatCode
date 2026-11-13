@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Myank6510/LeatCode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Myank6510/LeatCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Myank6510/LeatCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
